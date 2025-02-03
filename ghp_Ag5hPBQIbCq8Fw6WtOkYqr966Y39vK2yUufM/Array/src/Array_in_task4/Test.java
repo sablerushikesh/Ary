@@ -10,6 +10,7 @@ public class Test {
 		arr[2] = 103;
 		arr[3] = 104;
 		arr[4] = 105;
+		System.out.println();
 		
 		arr[4]=105;
 		//System.out.println(arr);
